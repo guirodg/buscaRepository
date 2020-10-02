@@ -2,11 +2,11 @@
 
 
 *Intruçoes*
-# Iniciando projeto comandos
+## Iniciando projeto comandos
 
 1- create-react-app first-react --template=typescript
 
-# Padrao code
+## Padrao code
 1- yarn add eslint -D
 2- yarn eslint --init
 
@@ -14,11 +14,11 @@
 
 4- yarn add eslint-import-resolver-typescript -D
 
-# Routes
+## Routes
 1- yarn add react-router-dom
 2- yarn add @types/react-router-dom
 
-# Packages
+## Packages
 1 - yarn add styled-components
 2 - yarn add @types/styled-components
 
@@ -26,5 +26,5 @@
 
 4- yarn add react-icons
 
-# Conectando API
+## Conectando API
 1- yarn add axios
